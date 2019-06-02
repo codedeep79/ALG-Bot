@@ -29,7 +29,7 @@ with open('README.md','w') as curated_lists_md:
         count = 1
         for curated_list in curated_lists:
 			# '* [`{1}`]({2}): {3}\n'
-            curated_lists_md.write('{}. [`{}`]({}): {}\n'.format(
+            curated_lists_md.write('### {}. [`{}`]({}): {}\n'.format(
                 count,
                 curated_list['repo'],
                 'https://www.github.com/'+curated_list['repo'],
