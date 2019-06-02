@@ -336,7 +336,7 @@ __159. [`mojombo/sf-vegetarian-restaurants`](https://www.github.com/mojombo/sf-v
 
 __160. [`RoboDonut/awesome-spatial`](https://www.github.com/RoboDonut/awesome-spatial)__: 
 
-__161. [`matteocrippa/awesome-vim Archived`](https://www.github.com/matteocrippa/awesome-vim Archived)__: 
+__161. [`matteocrippa/awesome-vim (Archived)`](https://www.github.com/matteocrippa/awesome-vim)__: 
 
 __162. [`WebGangster/A-to-Z-List-of-Useful-Node.js-Modules`](https://www.github.com/WebGangster/A-to-Z-List-of-Useful-Node.js-Modules)__: 
 
@@ -1298,7 +1298,7 @@ __640. [`raphamorim/awesome-canvas`](https://www.github.com/raphamorim/awesome-c
 
 __641. [`stevemao/awesome-git-addons`](https://www.github.com/stevemao/awesome-git-addons)__: 
 
-__642. [`raynesio/remotelist Archived`](https://www.github.com/raynesio/remotelist Archived)__: 
+__642. [`raynesio/remotelist (Archived)`](https://www.github.com/raynesio/remotelist)__: 
 
 __643. [`mojoaxel/awesome-regression-testing`](https://www.github.com/mojoaxel/awesome-regression-testing)__: 
 
@@ -2330,7 +2330,7 @@ __1156. [`gdamdam/awesome-decentralized-web`](https://www.github.com/gdamdam/awe
 
 __1157. [`dreikanter/sublime-bookmarks`](https://www.github.com/dreikanter/sublime-bookmarks)__: 
 
-__1158. [`RichardLitt/awesome-conferences Archived`](https://www.github.com/RichardLitt/awesome-conferences Archived)__: 
+__1158. [`RichardLitt/awesome-conferences (Archived)`](https://www.github.com/RichardLitt/awesome-conferences)__: 
 
 __1159. [`tzutalin/awesome-visual-slam`](https://www.github.com/tzutalin/awesome-visual-slam)__: 
 
@@ -2392,7 +2392,7 @@ __1187. [`faktionai/awesome-ai-usecases`](https://www.github.com/faktionai/aweso
 
 __1188. [`arbox/data-science-with-ruby`](https://www.github.com/arbox/data-science-with-ruby)__: 
 
-__1189. [`aweconf/awesome-conferences-database Archived`](https://www.github.com/aweconf/awesome-conferences-database Archived)__: 
+__1189. [`aweconf/awesome-conferences-database (Archived)`](https://www.github.com/aweconf/awesome-conferences-database)__: 
 
 __1190. [`RyanZim/awesome-npm-scripts`](https://www.github.com/RyanZim/awesome-npm-scripts)__: 
 
