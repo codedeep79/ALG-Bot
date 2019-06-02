@@ -14,7 +14,7 @@ curated_lists = []
 browser = webdriver.Chrome()
 console.info("Initialized Chrome Webdriver.")
 
-def get_repos(pages=10):
+def get_repos(pages=9):
     console.log("Now entering signup process.")
 
     # Page 1 of Signup
@@ -23,7 +23,7 @@ def get_repos(pages=10):
     # browser.get(
     #    'https://github.com/search?o=desc&p=1&q=curated+list&s=stars&type=Repositories&utf8=%E2%9C%93')
     browser.get(
-        'https://github.com/search?o=desc&p=91&q=curated+list')
+        'https://github.com/search?o=desc&p=100&q=curated+list')
     sleep(1)
 
     # Get repos
@@ -44,8 +44,8 @@ def get_repos(pages=10):
                 console.success("Added " + resultText[0])
             except Exception as e:
                 console.error(str(e))
-        browser.find_element_by_class_name('next_page').click()
-        console.log("Moving on...")
+        #browser.find_element_by_class_name('next_page').click()
+        #console.log("Moving on...")
         sleep(1)
 
     #search_results = browser.find_elements_by_class_name('repo-list-item')
@@ -60,9 +60,9 @@ def get_repos(pages=10):
     browser.quit()
 
 try:
-    get_repos(pages=100)
+    get_repos(pages=9)
 except:
     pass
 
-with open('./Curated list/curated_lists23.json', 'w') as curated_list_json_file:
+with open('./Curated list/curated_lists24.json', 'w') as curated_list_json_file:
     json.dump(curated_lists, curated_list_json_file, indent=4)

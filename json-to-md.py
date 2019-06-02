@@ -17,7 +17,7 @@ _Updated as often as I can. Want to contribute? Go ahead and make a pull request
 - [ ] Organize lists
 - [ ] Create easy search for lists.
 
-# Lists
+# Awesome Lists
 
 '''
 
