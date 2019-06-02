@@ -23,7 +23,7 @@ def get_repos(pages=10):
     # browser.get(
     #    'https://github.com/search?o=desc&p=1&q=curated+list&s=stars&type=Repositories&utf8=%E2%9C%93')
     browser.get(
-        'https://github.com/search?o=desc&p=1&q=curated+list')
+        'https://github.com/search?o=desc&p=91&q=curated+list')
     sleep(1)
 
     # Get repos
@@ -64,5 +64,5 @@ try:
 except:
     pass
 
-with open('./Curated list/curated_lists13.json', 'w') as curated_list_json_file:
-    json.dump(curated_lists, curated_list_json_file)
+with open('./Curated list/curated_lists23.json', 'w') as curated_list_json_file:
+    json.dump(curated_lists, curated_list_json_file, indent=4)

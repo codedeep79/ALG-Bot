@@ -1,0 +1,362 @@
+[
+    {
+        "repo": "wsvincent/awesome-django", 
+        "description": ""
+    }, 
+    {
+        "repo": "markusschanta/awesome-jupyter", 
+        "description": ""
+    }, 
+    {
+        "repo": "jslee02/awesome-robotics-libraries", 
+        "description": ""
+    }, 
+    {
+        "repo": "derimagia/awesome-alfred-workflows", 
+        "description": ""
+    }, 
+    {
+        "repo": "egeerardyn/awesome-LaTeX", 
+        "description": ""
+    }, 
+    {
+        "repo": "clowwindy/Awesome-Networking", 
+        "description": ""
+    }, 
+    {
+        "repo": "mehcode/awesome-atom", 
+        "description": ""
+    }, 
+    {
+        "repo": "igorbarinov/awesome-blockchain", 
+        "description": ""
+    }, 
+    {
+        "repo": "frenck/awesome-home-assistant", 
+        "description": ""
+    }, 
+    {
+        "repo": "Solido/awesome-flutter", 
+        "description": ""
+    }, 
+    {
+        "repo": "sqreen/awesome-nodejs-projects", 
+        "description": ""
+    }, 
+    {
+        "repo": "AcalephStorage/awesome-devops", 
+        "description": ""
+    }, 
+    {
+        "repo": "Separius/awesome-sentence-embedding", 
+        "description": ""
+    }, 
+    {
+        "repo": "arbox/machine-learning-with-ruby", 
+        "description": ""
+    }, 
+    {
+        "repo": "sekwiatkowski/awesome-capsule-networks", 
+        "description": ""
+    }, 
+    {
+        "repo": "HugoGiraudel/awesome-sass", 
+        "description": ""
+    }, 
+    {
+        "repo": "sharkdp/great-puzzles", 
+        "description": ""
+    }, 
+    {
+        "repo": "mpvue/awesome-mpvue", 
+        "description": ""
+    }, 
+    {
+        "repo": "stoeffel/awesome-fp-js", 
+        "description": ""
+    }, 
+    {
+        "repo": "dbartolini/data-oriented-design", 
+        "description": ""
+    }, 
+    {
+        "repo": "snoopysecurity/awesome-burp-extensions", 
+        "description": ""
+    }, 
+    {
+        "repo": "uhub/awesome-c", 
+        "description": ""
+    }, 
+    {
+        "repo": "emptymalei/awesome-research", 
+        "description": ""
+    }, 
+    {
+        "repo": "wanghaisheng/awesome-microservice", 
+        "description": ""
+    }, 
+    {
+        "repo": "xiamx/awesome-sentiment-analysis", 
+        "description": ""
+    }, 
+    {
+        "repo": "v2-dev/awesome-social-engineering", 
+        "description": ""
+    }, 
+    {
+        "repo": "wbinnssmith/awesome-promises", 
+        "description": ""
+    }, 
+    {
+        "repo": "shuaibiyy/awesome-terraform", 
+        "description": ""
+    }, 
+    {
+        "repo": "crownpku/Awesome-Chinese-NLP", 
+        "description": ""
+    }, 
+    {
+        "repo": "carpedm20/awesome-torch", 
+        "description": ""
+    }, 
+    {
+        "repo": "caocuong0306/awesome-object-proposals", 
+        "description": ""
+    }, 
+    {
+        "repo": "Kristories/awesome-guidelines", 
+        "description": ""
+    }, 
+    {
+        "repo": "MaxBenChrist/awesome_time_series_in_python", 
+        "description": ""
+    }, 
+    {
+        "repo": "markdtw/awesome-architecture-search", 
+        "description": ""
+    }, 
+    {
+        "repo": "therebelrobot/awesome-bootstrap", 
+        "description": ""
+    }, 
+    {
+        "repo": "brunopulis/awesome-a11y", 
+        "description": ""
+    }, 
+    {
+        "repo": "andrew--r/frontend-case-studies", 
+        "description": ""
+    }, 
+    {
+        "repo": "isRuslan/awesome-elm", 
+        "description": ""
+    }, 
+    {
+        "repo": "JefMari/awesome-wysiwyg", 
+        "description": ""
+    }, 
+    {
+        "repo": "MFatihMAR/Awesome-Game-Networking", 
+        "description": ""
+    }, 
+    {
+        "repo": "uhub/awesome-cpp", 
+        "description": ""
+    }, 
+    {
+        "repo": "mr-karan/awesome-investing", 
+        "description": ""
+    }, 
+    {
+        "repo": "squaremetrics/awesome-beacon", 
+        "description": ""
+    }, 
+    {
+        "repo": "eug/awesome-opengl", 
+        "description": ""
+    }, 
+    {
+        "repo": "jpantunes/awesome-cryptoeconomics", 
+        "description": ""
+    }, 
+    {
+        "repo": "chongyangtao/Awesome-Scene-Text-Recognition", 
+        "description": ""
+    }, 
+    {
+        "repo": "SrinivasanTarget/awesome-appium", 
+        "description": ""
+    }, 
+    {
+        "repo": "phillipadsmith/awesome-github", 
+        "description": ""
+    }, 
+    {
+        "repo": "jdorfman/awesome-json-datasets", 
+        "description": ""
+    }, 
+    {
+        "repo": "djadmin/awesome-bug-bounty", 
+        "description": ""
+    }, 
+    {
+        "repo": "transitive-bullshit/awesome-puppeteer", 
+        "description": ""
+    }, 
+    {
+        "repo": "aniftyco/awesome-tailwindcss", 
+        "description": ""
+    }, 
+    {
+        "repo": "Jolg42/awesome-typography", 
+        "description": ""
+    }, 
+    {
+        "repo": "InQuest/awesome-yara", 
+        "description": ""
+    }, 
+    {
+        "repo": "wasabeef/awesome-android-tools", 
+        "description": ""
+    }, 
+    {
+        "repo": "domenicosolazzo/awesome-okr", 
+        "description": ""
+    }, 
+    {
+        "repo": "uhub/awesome-python", 
+        "description": ""
+    }, 
+    {
+        "repo": "fasouto/awesome-dataviz", 
+        "description": ""
+    }, 
+    {
+        "repo": "burningtree/awesome-json", 
+        "description": ""
+    }, 
+    {
+        "repo": "ekremkaraca/awesome-rails", 
+        "description": ""
+    }, 
+    {
+        "repo": "devspace/awesome-github-templates", 
+        "description": ""
+    }, 
+    {
+        "repo": "pditommaso/awesome-pipeline", 
+        "description": ""
+    }, 
+    {
+        "repo": "erichs/awesome-awesome", 
+        "description": ""
+    }, 
+    {
+        "repo": "aurelia-contrib/awesome-aurelia", 
+        "description": ""
+    }, 
+    {
+        "repo": "benstew/blockchain-for-software-engineers", 
+        "description": ""
+    }, 
+    {
+        "repo": "jason718/awesome-self-supervised-learning", 
+        "description": ""
+    }, 
+    {
+        "repo": "machinomy/awesome-non-financial-blockchain", 
+        "description": ""
+    }, 
+    {
+        "repo": "phalcon/awesome-phalcon", 
+        "description": ""
+    }, 
+    {
+        "repo": "HollyAdele/awesome-programming-for-kids", 
+        "description": ""
+    }, 
+    {
+        "repo": "mailtoharshit/awesome-salesforce", 
+        "description": ""
+    }, 
+    {
+        "repo": "ElaWorkshop/awesome-cn-cafe", 
+        "description": ""
+    }, 
+    {
+        "repo": "wtsxDev/Machine-Learning-for-Cyber-Security", 
+        "description": ""
+    }, 
+    {
+        "repo": "onqtam/awesome-cmake", 
+        "description": ""
+    }, 
+    {
+        "repo": "uhub/awesome-swift", 
+        "description": ""
+    }, 
+    {
+        "repo": "jaredthecoder/awesome-vehicle-security", 
+        "description": ""
+    }, 
+    {
+        "repo": "meirwah/awesome-workflow-engines", 
+        "description": ""
+    }, 
+    {
+        "repo": "vuejs/vue-curated-client", 
+        "description": ""
+    }, 
+    {
+        "repo": "streamich/awesome-styleguides", 
+        "description": ""
+    }, 
+    {
+        "repo": "obazoud/awesome-dashboard", 
+        "description": ""
+    }, 
+    {
+        "repo": "hibayesian/awesome-automl-papers", 
+        "description": ""
+    }, 
+    {
+        "repo": "hibayesian/awesome-automl-papers", 
+        "description": ""
+    }, 
+    {
+        "repo": "brabadu/awesome-fonts", 
+        "description": ""
+    }, 
+    {
+        "repo": "nikitavoloboev/privacy-respecting", 
+        "description": ""
+    }, 
+    {
+        "repo": "heyalexej/awesome-images", 
+        "description": ""
+    }, 
+    {
+        "repo": "JingwenTian/awesome-frontend", 
+        "description": ""
+    }, 
+    {
+        "repo": "minio/awesome-minio", 
+        "description": ""
+    }, 
+    {
+        "repo": "glauberfc/awesome-react-hooks", 
+        "description": ""
+    }, 
+    {
+        "repo": "cyclejs-community/awesome-cyclejs", 
+        "description": ""
+    }, 
+    {
+        "repo": "jsuarezruiz/awesome-xamarin-forms", 
+        "description": ""
+    }, 
+    {
+        "repo": "jdauphant/awesome-ansible", 
+        "description": ""
+    }
+]

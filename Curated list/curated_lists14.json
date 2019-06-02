@@ -1,0 +1,362 @@
+[
+    {
+        "repo": "igorbarinov/awesome-data-engineering", 
+        "description": ""
+    }, 
+    {
+        "repo": "parro-it/awesome-micro-npm-packages", 
+        "description": ""
+    }, 
+    {
+        "repo": "RyanNielson/awesome-unity", 
+        "description": ""
+    }, 
+    {
+        "repo": "onlurking/awesome-infosec", 
+        "description": ""
+    }, 
+    {
+        "repo": "sobolevn/awesome-cryptography", 
+        "description": ""
+    }, 
+    {
+        "repo": "jinwchoi/awesome-action-recognition", 
+        "description": ""
+    }, 
+    {
+        "repo": "agarrharr/awesome-macos-screensavers", 
+        "description": ""
+    }, 
+    {
+        "repo": "alvations/awesome-community-curated-nlp", 
+        "description": ""
+    }, 
+    {
+        "repo": "tayllan/awesome-algorithms", 
+        "description": ""
+    }, 
+    {
+        "repo": "kjw0612/awesome-rnn", 
+        "description": ""
+    }, 
+    {
+        "repo": "fffaraz/awesome-cpp", 
+        "description": ""
+    }, 
+    {
+        "repo": "iamdaiyuan/ios_top_1000", 
+        "description": ""
+    }, 
+    {
+        "repo": "neiesc/awesome-minimalist", 
+        "description": ""
+    }, 
+    {
+        "repo": "nashory/gans-awesome-applications", 
+        "description": ""
+    }, 
+    {
+        "repo": "decrypto-org/blockchain-papers", 
+        "description": ""
+    }, 
+    {
+        "repo": "ProductHired/open-product-management", 
+        "description": ""
+    }, 
+    {
+        "repo": "jzau/awesome-ios-animation", 
+        "description": ""
+    }, 
+    {
+        "repo": "awesome-lists/awesome-bash", 
+        "description": ""
+    }, 
+    {
+        "repo": "h4cc/awesome-elixir", 
+        "description": ""
+    }, 
+    {
+        "repo": "Awesome-Windows/Awesome", 
+        "description": ""
+    }, 
+    {
+        "repo": "maxogden/hexbin", 
+        "description": ""
+    }, 
+    {
+        "repo": "nuxt-community/awesome-nuxt", 
+        "description": ""
+    }, 
+    {
+        "repo": "briatte/awesome-network-analysis", 
+        "description": ""
+    }, 
+    {
+        "repo": "r0f1/datascience", 
+        "description": ""
+    }, 
+    {
+        "repo": "jbwolfe/awesome-django", 
+        "description": ""
+    }, 
+    {
+        "repo": "lnishan/awesome-competitive-programming", 
+        "description": ""
+    }, 
+    {
+        "repo": "edobashira/speech-language-processing", 
+        "description": ""
+    }, 
+    {
+        "repo": "agarrharr/awesome-static-website-services", 
+        "description": ""
+    }, 
+    {
+        "repo": "christian-bromann/awesome-selenium", 
+        "description": ""
+    }, 
+    {
+        "repo": "mbasso/awesome-wasm", 
+        "description": ""
+    }, 
+    {
+        "repo": "KotlinBy/awesome-kotlin", 
+        "description": ""
+    }, 
+    {
+        "repo": "owainlewis/awesome-artificial-intelligence", 
+        "description": ""
+    }, 
+    {
+        "repo": "ember-links/list", 
+        "description": ""
+    }, 
+    {
+        "repo": "mhrimaz/AwesomeJavaFX", 
+        "description": ""
+    }, 
+    {
+        "repo": "jyguyomarch/awesome-productivity", 
+        "description": ""
+    }, 
+    {
+        "repo": "EnigmaBridge/javacard-curated-list", 
+        "description": ""
+    }, 
+    {
+        "repo": "takeitallsource/awesome-autonomous-vehicles", 
+        "description": ""
+    }, 
+    {
+        "repo": "LewisJEllis/awesome-lua", 
+        "description": ""
+    }, 
+    {
+        "repo": "networktocode/awesome-network-automation", 
+        "description": ""
+    }, 
+    {
+        "repo": "onurakpolat/awesome-analytics", 
+        "description": ""
+    }, 
+    {
+        "repo": "ameizi/awesome-ios-animation", 
+        "description": ""
+    }, 
+    {
+        "repo": "kjw0612/awesome-random-forest", 
+        "description": ""
+    }, 
+    {
+        "repo": "sdras/awesome-actions", 
+        "description": ""
+    }, 
+    {
+        "repo": "jghoman/awesome-apache-airflow", 
+        "description": ""
+    }, 
+    {
+        "repo": "kozross/awesome-c", 
+        "description": ""
+    }, 
+    {
+        "repo": "olucurious/Awesome-ARKit", 
+        "description": ""
+    }, 
+    {
+        "repo": "moul/awesome-ssh", 
+        "description": ""
+    }, 
+    {
+        "repo": "keon/awesome-bits", 
+        "description": ""
+    }, 
+    {
+        "repo": "ramnes/awesome-mongodb", 
+        "description": ""
+    }, 
+    {
+        "repo": "kanster/awesome-slam", 
+        "description": ""
+    }, 
+    {
+        "repo": "ritchieng/the-incredible-pytorch", 
+        "description": ""
+    }, 
+    {
+        "repo": "gostor/awesome-go-storage", 
+        "description": ""
+    }, 
+    {
+        "repo": "pawl/awesome-etl", 
+        "description": ""
+    }, 
+    {
+        "repo": "kakoni/awesome-healthcare", 
+        "description": ""
+    }, 
+    {
+        "repo": "guipdutra/awesome-geek-podcasts", 
+        "description": ""
+    }, 
+    {
+        "repo": "yissachar/awesome-dart", 
+        "description": ""
+    }, 
+    {
+        "repo": "SalGnt/cscs", 
+        "description": ""
+    }, 
+    {
+        "repo": "juliocesarfort/public-pentesting-reports", 
+        "description": ""
+    }, 
+    {
+        "repo": "yenchenlin/awesome-adversarial-machine-learning", 
+        "description": ""
+    }, 
+    {
+        "repo": "philipwalton/flexbugs", 
+        "description": ""
+    }, 
+    {
+        "repo": "uhub/awesome-matlab", 
+        "description": ""
+    }, 
+    {
+        "repo": "nicolesaidy/awesome-web-design", 
+        "description": ""
+    }, 
+    {
+        "repo": "jphall663/awesome-machine-learning-interpretability", 
+        "description": ""
+    }, 
+    {
+        "repo": "kdabir/awesome-groovy", 
+        "description": ""
+    }, 
+    {
+        "repo": "ElementUI/awesome-element", 
+        "description": ""
+    }, 
+    {
+        "repo": "anaibol/awesome-serverless", 
+        "description": ""
+    }, 
+    {
+        "repo": "PaulSec/awesome-windows-domain-hardening", 
+        "description": ""
+    }, 
+    {
+        "repo": "imbaniac/awesome-blockchain", 
+        "description": ""
+    }, 
+    {
+        "repo": "awesome-spark/awesome-spark", 
+        "description": ""
+    }, 
+    {
+        "repo": "matiassingers/awesome-slack", 
+        "description": ""
+    }, 
+    {
+        "repo": "styled-components/awesome-styled-components", 
+        "description": ""
+    }, 
+    {
+        "repo": "grpc-ecosystem/awesome-grpc", 
+        "description": ""
+    }, 
+    {
+        "repo": "aalhour/awesome-compilers", 
+        "description": ""
+    }, 
+    {
+        "repo": "NirantK/awesome-project-ideas", 
+        "description": ""
+    }, 
+    {
+        "repo": "dhamaniasad/awesome-postgres", 
+        "description": ""
+    }, 
+    {
+        "repo": "ujjwalkarn/DataScienceR", 
+        "description": ""
+    }, 
+    {
+        "repo": "davisonio/awesome-irc", 
+        "description": ""
+    }, 
+    {
+        "repo": "t3chnoboy/awesome-awesome-awesome", 
+        "description": ""
+    }, 
+    {
+        "repo": "danielecook/Awesome-Bioinformatics", 
+        "description": ""
+    }, 
+    {
+        "repo": "hobbyquaker/awesome-mqtt", 
+        "description": ""
+    }, 
+    {
+        "repo": "cugu/awesome-forensics", 
+        "description": ""
+    }, 
+    {
+        "repo": "gamontal/awesome-katas", 
+        "description": ""
+    }, 
+    {
+        "repo": "wilsonfreitas/awesome-quant", 
+        "description": ""
+    }, 
+    {
+        "repo": "chinakook/Awesome-MXNet", 
+        "description": ""
+    }, 
+    {
+        "repo": "dahlia/awesome-sqlalchemy", 
+        "description": ""
+    }, 
+    {
+        "repo": "ksimka/go-is-not-good", 
+        "description": ""
+    }, 
+    {
+        "repo": "janikvonrotz/awesome-powershell", 
+        "description": ""
+    }, 
+    {
+        "repo": "0x4D31/awesome-threat-detection", 
+        "description": ""
+    }, 
+    {
+        "repo": "vicoyeh/One-Click-to-Be-Pro", 
+        "description": ""
+    }, 
+    {
+        "repo": "ozlerhakan/mongodb-json-files", 
+        "description": ""
+    }
+]
