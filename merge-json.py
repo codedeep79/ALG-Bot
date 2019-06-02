@@ -14,8 +14,9 @@ for f in readFiles:
         data = json.load(file)
         i = 0
         # Prevent duplicate the JSON Object
-        while i < len(data) and data[i] not in outputList:
-                outputList.append(data[i])
+        while i < len(data):
+                if data[i] not in outputList:
+                        outputList.append(data[i])
                 i = i + 1
 
 with open("awesome-list.json", "w") as outFile:
