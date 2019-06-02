@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import os, json
 
-template='''# All in One Tool
+template='''# All in One Repository Bot
 
 Ever wish there was a curated list for your curated lists, including other curated lists of curated lists that may or may not contain other curated lists?
 

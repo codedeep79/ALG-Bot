@@ -7,7 +7,7 @@ import glob
 #[{"key1": "value1"},
 # {"key2": "value2"}]
 
-readFiles = glob.glob("*.json")
+readFiles = glob.glob("Curated list/*.json")
 outputList = []
 
 for f in readFiles:
